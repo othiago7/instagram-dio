@@ -13,7 +13,7 @@ Tem como objetivo recriar página inicial do instagram.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link] (#)
+Você pode visualizar o layout do projeto através [desse link](https://bit.ly/3fOlPRS)
 
 ## :memo: Licença
 
